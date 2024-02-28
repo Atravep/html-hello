@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    display: block;
+    background-color: #EAEAEA;
+}
+.encabezado{
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+.contenido{
+    margin-top: 30px;
+}
+
+.titulo_foto{
+    display: flex;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.titulo{
+    font-weight: bold;
+    margin-left: 5px;
+    position: relative;
+}
+.fecha{
+    color:lightgray;
+    margin-left: 75%;
+    position: relative;
+}
+.foto{
+    width: 40%;
+    height: 40%;
+    
+
+}
+.pie_foto{
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: justify;
+    margin-top: 0;
+    height: 120%;
+    margin-bottom: 3%;
+    padding-top: 0;
+}
